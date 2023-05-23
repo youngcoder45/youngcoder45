@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @youngcoder45
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning R Language
+- 🌱 I’m currently preparing For JEE Mains
 - 💞️ I’m Enjoying the happines of Coding
-- 📫 My znap link:- https://znap.link/youngcoder
+- 📫 My link page:- https://linktr.ee/youngcoder45
 
 <!---
 youngcoder45/youngcoder45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
