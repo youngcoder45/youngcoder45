@@ -9,9 +9,9 @@
 🚀 Join me on this incredible journey as I turn lines of code into functional art, and as I navigate the realms of programming, space, and everything in between. Let's connect, collaborate, and shoot for the stars! 🌟🪐
 
 🌐 Connect with me:
-instagram: youngcoder45
-replit: @youngcoder45
-discord: youngcoder45#1906
+Instagram: youngcoder45 |   
+Replit: @youngcoder45 |   
+Discord: youngcoder45#1906 |   
 
 - 📫 My link page:- https://linktr.ee/youngcoder45
 
