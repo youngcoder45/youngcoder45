@@ -6,8 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=youngcoder45&style=for-the-badge&color=6A5ACD" alt="Profile Views" />
 </p>
 
----
-
 <h2 align="center">👨‍💻 About Me</h2>
 <p align="center">
   I’m <b>Aditya Verma</b>, a passionate programmer and student with strong interests in 
