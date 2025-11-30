@@ -74,18 +74,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youngcoder45&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngcoder45&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&layout=compact" />
-</p>
-
-<br>
-
 <h3 align="center">🔥 GitHub Streak</h3>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=youngcoder45&theme=tokyonight&hide_border=true&background=0D1117&ring=6A5ACD&fire=6A5ACD&currStreakLabel=6A5ACD" alt="GitHub Streak" />
@@ -106,14 +94,6 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=youngcoder45&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
-
----
-
-<h3 align="center">🐍 Contribution Snake</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/youngcoder45/youngcoder45/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
 ---
 
 <h2 align="center">🌐 Connect With Me</h2>
