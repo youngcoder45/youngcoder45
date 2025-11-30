@@ -3,12 +3,6 @@
 </h2>
 
 <p align="center">
-  <a href="https://youngcoder45.netlify.app/">
-    <img src="https://raw.githubusercontent.com/youngcoder45/youngcoder45/main/coder.png" height="200px" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=youngcoder45&style=for-the-badge&color=6A5ACD" alt="Profile Views" />
 </p>
 
