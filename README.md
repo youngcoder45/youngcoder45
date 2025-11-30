@@ -2,11 +2,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;I+use+Arch+btw;I+am+an+AI+enthusiast;Professional+Coder+%26+Student" alt="Typing SVG" />
 </h2>
 
-
 <p align="center">
   <a href="https://youngcoder45.netlify.app/">
     <img src="https://raw.githubusercontent.com/youngcoder45/youngcoder45/main/coder.png" height="200px" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=youngcoder45&style=for-the-badge&color=6A5ACD" alt="Profile Views" />
 </p>
 
 ---
@@ -65,9 +68,9 @@
 
 <h2 align="center">📂 Featured Projects</h2>
 
-- [**Music Website**](https://github.com/youngcoder45/MC_Error.me) – A music website for a musician friend  
-- [**Discord Bots**](https://github.com/youngcoder45/Discord-bot-in-Python) – Custom automation and server management bots  
-- [**Portfolio**](https://youngcoder45.netlify.app/) – My personal website and portfolio  
+- [**Music Website**](https://github.com/youngcoder45/MC_Error.me)
+- [**Discord Bots**](https://github.com/youngcoder45/Discord-bot-in-Python)
+- [**Portfolio**](https://youngcoder45.netlify.app/)
 
 ---
 
@@ -79,6 +82,36 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngcoder45&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&layout=compact" />
+</p>
+
+<br>
+
+<h3 align="center">🔥 GitHub Streak</h3>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=youngcoder45&theme=tokyonight&hide_border=true&background=0D1117&ring=6A5ACD&fire=6A5ACD&currStreakLabel=6A5ACD" alt="GitHub Streak" />
+</p>
+
+<br>
+
+---
+
+<h3 align="center">⭐ Total Stars Earned</h3>
+<p align="center">
+<img src="https://img.shields.io/github/stars/youngcoder45?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=6A5ACD" alt="Total Stars" />
+</p>
+
+---
+
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=youngcoder45&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+<h3 align="center">🐍 Contribution Snake</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/youngcoder45/youngcoder45/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
@@ -97,5 +130,5 @@
 <h3 align="center">Closing Note</h3>
 <p align="center">
 I believe in learning by doing and sharing knowledge through open-source.  
-My long-term goal is to advance in <b>Artificial Intelligence</b> and <b>space-related technologies</b> while giving back to the developer community.  
+My long-term goal is to advance in <b>Artificial Intelligence</b> and <b>space-related technologies</b> while giving back to the developer community.
 </p>
