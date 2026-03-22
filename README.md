@@ -83,7 +83,7 @@
 ---
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=youngcoder45&theme=tokyonight&no-frame=true&column=6" />
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=youngcoder45&theme=tokyonight&no-frame=true&column=6" /> -->
   <br>
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=youngcoder45&theme=tokyonight&column=6" />
 </p>
