@@ -73,8 +73,6 @@
 
 <br>
 
----
-
 <h3 align="center">⭐ Total Stars Earned</h3>
 <p align="center">
 <img src="https://img.shields.io/github/stars/youngcoder45?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=6A5ACD" alt="Total Stars" />
