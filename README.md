@@ -89,6 +89,20 @@
 
 ---
 
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/youngcoder45/youngcoder45/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/youngcoder45/youngcoder45/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/youngcoder45/youngcoder45/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br>
+
+---
+
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
