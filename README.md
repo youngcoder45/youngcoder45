@@ -6,26 +6,26 @@
   <img src="https://komarev.com/ghpvc/?username=youngcoder45&style=for-the-badge&color=6A5ACD" alt="Profile Views" />
 </p>
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">About Me</h2>
 <p align="center">
-  I’m <b>Aditya Verma</b>, a passionate programmer and student with strong interests in 
+  I’m <b>Aditya Verma</b>, a Computer Science Student and a Passionate Programmer, I am interested in
   <b>Artificial Intelligence, Web Development, and Problem Solving</b>.  
-  I enjoy exploring new technologies, building meaningful projects, and continuously sharpening my skills in computer science and mathematics.
+  I enjoy exploring new technologies, building projects for fun, and continuously upskilling myself in computer science and mathematics.
 </p>
 
 ---
 
-<h2 align="center">📌 Current Focus</h2>
+<h2 align="center">Current Focus</h2>
 
-- Working on: Python-based projects, Discord bots, and web development  
-- Learning: Artificial Intelligence, Data Structures & Algorithms, and Machine Learning  
-- Open to collaborate on: AI projects, educational tools, and innovative web apps  
-- Ask me about: Python, C, C++, Java, JavaScript, Web Dev, and programming concepts  
-- Goal: Build a career in AI and contribute to impactful projects in technology  
+- Working on: Python-based projects, Discord bots, and Next Js Web Apps.
+- Learning: Artificial Intelligence, Data Structures & Algorithms, and Machine Learning and FastAPI
+- Open to collaborate on Any Project associated with my Tech stack.
+- Ask me about: Python, C, C++, Rust, JavaScript, Web Dev, and programming concepts  
+- Goal: Be an Impactful Programmer.
 
 ---
 
-<h2 align="center">⚡ Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
@@ -44,14 +44,14 @@
 <!-- Frontend -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> -->
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
 
 <br>
 
 <!-- Backend / Frameworks -->
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Tkinter-FFCC00?style=for-the-badge&logo=python&logoColor=black">
+<!-- <img src="https://img.shields.io/badge/Tkinter-FFCC00?style=for-the-badge&logo=python&logoColor=black"> -->
 
 <br>
 
@@ -97,9 +97,9 @@
 
 ---
 <h2 align="center">Most Used Languags</h2>
-
+<div align="center">
 <img src="https://github-readme-stats-delta-henna-50.vercel.app/api/top-langs?username=youngcoder45&layout=compact&theme=highcontrast&hide_border=true" height="150"/>
-
+</div>
 
 <!-- - [**Music Website**](https://github.com/youngcoder45/MC_Error.me)
 - [**Discord Bots**](https://github.com/youngcoder45/Discord-bot-in-Python)
@@ -107,20 +107,20 @@
 
 ---
 
-<h3 align="center">🔥 GitHub Streak</h3>
+<h3 align="center">GitHub Streak</h3>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=youngcoder45&theme=tokyonight&hide_border=true&background=0D1117&ring=6A5ACD&fire=6A5ACD&currStreakLabel=6A5ACD" alt="GitHub Streak" />
 </p>
 
 <br>
 
-<h3 align="center">⭐ Total Stars Earned</h3>
+<h3 align="center">Total Stars Earned</h3>
 <p align="center">
 <img src="https://img.shields.io/github/stars/youngcoder45?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=6A5ACD" alt="Total Stars" />
 </p>
 
 ---
-<h3 align="center">🏆 GitHub Trophies</h3>
+<h3 align="center">GitHub Trophies</h3>
 <p align="center">
   <!-- <img src="https://github-profile-trophy.vercel.app/?username=youngcoder45&theme=tokyonight&no-frame=true&column=6" /> -->
   <br>
@@ -128,7 +128,7 @@
 </p>
 
 ---
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">GitHub Stats</h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=youngcoder45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
@@ -143,7 +143,7 @@
 </div>
 
 ---
-<h3 align="center">🐍 Contribution Snake</h3>
+<h3 align="center">Contribution Snake</h3>
 
 <div align="center">
   <picture>
@@ -160,7 +160,7 @@
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center">Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/youngcoder45/">LinkedIn</a> •
@@ -173,6 +173,6 @@
 
 <h3 align="center">Closing Note</h3>
 <p align="center">
-I believe in learning by doing and sharing knowledge through open-source.  
-My long-term goal is to advance in <b>Artificial Intelligence</b> and <b>space-related technologies</b> while giving back to the developer community.
+I believe in learning by doing(Unsupervised Learning) and sharing knowledge through open-source.  
+My long-term goal is to advance in <b>Artificial Intelligence</b> and <b>Embedded System Technologies</b> while giving back to the developer community.
 </p>
