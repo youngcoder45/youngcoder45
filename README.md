@@ -135,7 +135,7 @@
 
 
 ---
-
+<h3 align="center">Activity Graph</h3>
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=youngcoder45&theme=high-contrast&hide_border=true" height="280"/>
