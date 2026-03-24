@@ -95,9 +95,13 @@
 <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white">
 </div>
 
-<!-- <h2 align="center">📂 Featured Projects</h2>
+---
+<h2 align="center">Most Used Languags</h2>
 
-- [**Music Website**](https://github.com/youngcoder45/MC_Error.me)
+<img src="https://github-readme-stats-delta-henna-50.vercel.app/api/top-langs?username=youngcoder45&layout=compact&theme=highcontrast&hide_border=true" height="150"/>
+
+
+<!-- - [**Music Website**](https://github.com/youngcoder45/MC_Error.me)
 - [**Discord Bots**](https://github.com/youngcoder45/Discord-bot-in-Python)
 - [**Portfolio**](https://youngcoder45.netlify.app/) -->
 
