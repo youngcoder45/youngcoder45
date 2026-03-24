@@ -136,6 +136,13 @@
 
 ---
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=youngcoder45&theme=high-contrast&hide_border=true" height="280"/>
+
+</div>
+
+---
 <h3 align="center">🐍 Contribution Snake</h3>
 
 <div align="center">
