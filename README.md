@@ -90,7 +90,9 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 
 <br>
-
+</div>
+<h3 align="center">OS / Environment</h3>
+<div align="center">
 <!-- OS / Environment -->
 <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
@@ -101,7 +103,9 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
 <br>
-
+</div>
+<h3 align="center">Code Editors</h3>
+<div align="center">
 <!-- Editors -->
 <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/Zed-000000?style=for-the-badge">
