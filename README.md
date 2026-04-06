@@ -4,6 +4,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=youngcoder45&style=for-the-badge&color=6A5ACD" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-212121?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Contributor" />
+  <img src="https://img.shields.io/badge/AI-ML%20Engineee-007ACC?style=for-the-badge&logo=googlescholar&logoColor=white" alt="AI-ML Engineer" />
 </p>
 
 <h2 align="center">About Me</h2>
