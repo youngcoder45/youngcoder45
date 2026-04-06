@@ -28,7 +28,7 @@
 ---
 
 <h2 align="center">Tech Stack</h2>
-
+<h3 align="center">Languages</h3>
 <div align="center">
 
 <!-- Languages -->
@@ -40,23 +40,28 @@
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-
+</div>
 <br>
-
+<h3 align="center">Frontend</h3>
+<div align="center">
 <!-- Frontend -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> -->
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-
+</div>
 <br>
-
+<h3 align="center">Backend</h3>
+<div align="center">
 <!-- Backend / Frameworks -->
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <!-- <img src="https://img.shields.io/badge/Tkinter-FFCC00?style=for-the-badge&logo=python&logoColor=black"> -->
 
 <br>
+</div>
 
+<h3 align="center">Data and Machine Learning.</h3>
+<div align="center">
 <!-- Data / ML -->
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
@@ -65,6 +70,9 @@
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
 
 <br>
+</div>
+<h3 align="center">Databases</h3>
+<div align="center">
 
 <!-- Databases -->
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -72,7 +80,9 @@
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
 
 <br>
-
+</div>
+<h3 align="center">Tools</h3>
+<div align="center">
 <!-- DevOps / Tools -->
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
