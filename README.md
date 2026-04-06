@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+
 </div>
 <br>
 <h3 align="center">Frontend</h3>
@@ -55,6 +55,7 @@
 <div align="center">
 <!-- Backend / Frameworks -->
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <!-- <img src="https://img.shields.io/badge/Tkinter-FFCC00?style=for-the-badge&logo=python&logoColor=black"> -->
 
 <br>
