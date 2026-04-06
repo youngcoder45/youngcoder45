@@ -178,3 +178,6 @@
 I believe in learning by doing(Unsupervised Learning) and sharing knowledge through open-source.  
 My long-term goal is to advance in <b>Artificial Intelligence</b> and <b>Embedded System Technologies</b> while giving back to the developer community.
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Code._Study._Research._Repeat.-C8A2C8?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Code. Study. Research. Repeat." />
+</p>
