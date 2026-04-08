@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=700&center=true&vCenter=true&width=600&lines=Hi%21+I+Am+Aditya;Welcome+Here%21;I+Am+An+AI+Developer;I+use+Arch+btw;I+am+an+AI+enthusiast;Professional+Coder+%26+Student" alt="Typing SVG" />
 </h2>
 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=youngcoder45&style=for-the-badge&color=6A5ACD" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Open%20Source%20Contributor-212121?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Contributor" />
