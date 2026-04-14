@@ -4,7 +4,7 @@
 ### AI-ML Engineer |  FOSS Developer
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=700&center=true&vCenter=true&width=600&lines=Welcome+Here%21;I+Am+An+AI+Developer;I+use+Arch+btw;I+am+an+AI+enthusiast;Professional+Coder+%26+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=700&center=true&vCenter=true&width=600&lines=Welcome+Here%21;I+Am+An+AI+Developer;I+use+Arch+btw;I+am+an+AI+Researcher;Professional+Coder+%26+Student" alt="Typing SVG" />
 </h2>
 </div>
 
