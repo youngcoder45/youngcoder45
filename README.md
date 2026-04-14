@@ -1,7 +1,13 @@
+<div align="center">
+  
+#  Hola!  I'm Aditya!
+
+### AI-ML Engineer |  FOSS Developer
+
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=700&center=true&vCenter=true&width=600&lines=Hi%21+I+Am+Aditya;Welcome+Here%21;I+Am+An+AI+Developer;I+use+Arch+btw;I+am+an+AI+enthusiast;Professional+Coder+%26+Student" alt="Typing SVG" />
 </h2>
-
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=youngcoder45&style=for-the-badge&color=6A5ACD" alt="Profile Views" />
