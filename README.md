@@ -16,9 +16,9 @@
 
 <h2 align="center">About Me</h2>
 <p align="center">
-  I’m <b>Aditya Verma</b>, a Computer Science Student and a Passionate Programmer, I am interested in
-  <b>Artificial Intelligence, Web Development, and Problem Solving</b>.  
-  I enjoy exploring new technologies, building projects for fun, and continuously upskilling myself in computer science and mathematics.
+  I’m <b>Aditya Verma</b>, a Computer Science Engineering Student and a Passionate Programmer, I am interested in
+  <b>Artificial Intelligence, Web Development, and Researches</b>.  
+ I just enjoy programming.
 </p>
 
 ---
@@ -29,7 +29,7 @@
 - Learning: Artificial Intelligence, Data Structures & Algorithms, and Machine Learning and FastAPI
 - Open to collaborate on Any Project associated with my Tech stack.
 - Ask me about: Python, C, C++, Rust, JavaScript, Web Dev, and programming concepts  
-- Goal: Be an Impactful Programmer.
+- Goal: Just code!
 
 ---
 
