@@ -54,7 +54,7 @@
 <!-- Frontend -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> -->
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
 <!-- </div>
 <br>
@@ -63,7 +63,7 @@
 <!-- Backend / Frameworks -->
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<!-- <img src="https://img.shields.io/badge/Tkinter-FFCC00?style=for-the-badge&logo=python&logoColor=black"> -->
+
 
 <br>
 </div>
@@ -87,14 +87,14 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
 
-<br>
+<!-- <br>
 </div>
 <h3 align="center">Tools</h3>
 <div align="center">
 <!-- DevOps / Tools -->
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> -->
 
 <br>
 </div>
@@ -104,8 +104,9 @@
 <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
 <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-<img src="https://img.shields.io/badge/Fish_Shell-4C8CBF?style=for-the-badge&logo=fishshell&logoColor=white">
-<img src="https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/Fish_Shell-4C8CBF?style=for-the-badge&logo=fishshell&logoColor=white"> -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white"> -->
 <img src="https://img.shields.io/badge/Niri-000000?style=for-the-badge">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
@@ -117,6 +118,24 @@
 <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/Zed-000000?style=for-the-badge">
 <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white">
+</div>
+---
+---
+
+<h2 align="center">🚀 Top Projects</h2>
+
+<div align="center">
+
+| Project | Stack | ⭐ Stars |
+|---|---|---|
+| [New-Niri-minimal-dots](https://github.com/youngcoder45/New-Niri-minimal-dots) | CSS, Niri, Wayland | 40 |
+| [My-KDE-Dotfiles](https://github.com/youngcoder45/My-KDE-Dotfiles) | Lua, KDE Plasma | 16 |
+| [Niri-Utils](https://github.com/youngcoder45/niri-utils) | Rust, Niri, Wayland | 16 |
+| [EclipseLinux](https://github.com/TheCodeVerseHub/EclipseLinux) | Lua, Linux, Void | 14 |
+| [Eigen-Bot](https://github.com/TheCodeVerseHub/Eigen-Bot) | Python, Discord.py | 13 |
+| [CodeVerseLinuxDistro](https://github.com/TheCodeVerseHub/CodeVerseLinuxDistro) | CSS, Linux | 10 |
+| [Fuzz-Wall](https://github.com/youngcoder45/fuzz-wall) | POSIX, Shell | 7 |
+
 </div>
 
 ---
