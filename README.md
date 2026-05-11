@@ -120,7 +120,6 @@
 <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white">
 </div>
 ---
----
 
 <h2 align="center"> Top Projects</h2>
 
