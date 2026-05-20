@@ -119,7 +119,6 @@
 <img src="https://img.shields.io/badge/Zed-000000?style=for-the-badge">
 <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white">
 </div>
----
 
 <h2 align="center"> Top Projects</h2>
 
@@ -127,14 +126,15 @@
 
 | Project | Stack | ⭐ Stars |
 |---|---|---|
-| [New-Niri-minimal-dots](https://github.com/youngcoder45/New-Niri-minimal-dots) | CSS, Niri, Wayland | 40 |
+| [New-Niri-minimal-dots](https://github.com/youngcoder45/New-Niri-minimal-dots) | CSS, Niri, Wayland | 43 |
 | [My-KDE-Dotfiles](https://github.com/youngcoder45/My-KDE-Dotfiles) | Lua, KDE Plasma | 16 |
 | [Niri-Utils](https://github.com/youngcoder45/niri-utils) | Rust, Niri, Wayland | 16 |
 | [EclipseLinux](https://github.com/TheCodeVerseHub/EclipseLinux) | Lua, Linux, Void | 14 |
 | [Eigen-Bot](https://github.com/TheCodeVerseHub/Eigen-Bot) | Python, Discord.py | 13 |
 | [CodeVerseLinuxDistro](https://github.com/TheCodeVerseHub/CodeVerseLinuxDistro) | CSS, Linux | 10 |
 | [Fuzz-Wall](https://github.com/youngcoder45/fuzz-wall) | POSIX, Shell | 7 |
-
+| [Mensinator](https://github.com/EmmaTellblom/Mensinator) | Kotlin | 129* |
+\* Contributed Not Owned!
 </div>
 
 ---
