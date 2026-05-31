@@ -35,7 +35,7 @@
 ---
 
 <h2 align="center">Tech Stack</h2>
-<h3 align="center">Languages</h3>
+<!-- <h3 align="center">Languages</h3> -->
 <div align="center">
 
 <!-- Languages -->
@@ -48,8 +48,8 @@
 <!-- <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> -->
 
 </div>
-<br>
-<h3 align="center">Web Development</h3>
+<!-- <br> -->
+<!-- <h3 align="center">Web Development</h3> -->
 <div align="center">
 <!-- Frontend -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -68,7 +68,7 @@
 <br>
 </div>
 
-<h3 align="center">Data and Machine Learning.</h3>
+<!-- <h3 align="center">Data and Machine Learning.</h3> -->
 <div align="center">
 <!-- Data / ML -->
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
@@ -79,7 +79,7 @@
 
 <br>
 </div>
-<h3 align="center">Databases</h3>
+<!-- <h3 align="center">Databases</h3> -->
 <div align="center">
 
 <!-- Databases -->
@@ -98,7 +98,7 @@
 
 <br>
 </div>
-<h3 align="center">OS / Environment</h3>
+<!-- <h3 align="center">OS / Environment</h3> -->
 <div align="center">
 <!-- OS / Environment -->
 <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white">
@@ -112,7 +112,7 @@
 
 <br>
 </div>
-<h3 align="center">Code Editors</h3>
+<!-- <h3 align="center">Code Editors</h3> -->
 <div align="center">
 <!-- Editors -->
 <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white">
@@ -126,14 +126,14 @@
 
 | Project | Stack | ⭐ Stars |
 |---|---|---|
-| [New-Niri-minimal-dots](https://github.com/youngcoder45/New-Niri-minimal-dots) | CSS, Niri, Wayland | 43 |
-| [My-KDE-Dotfiles](https://github.com/youngcoder45/My-KDE-Dotfiles) | Lua, KDE Plasma | 16 |
+| [New-Niri-minimal-dots](https://github.com/youngcoder45/New-Niri-minimal-dots) | CSS, Niri, Wayland | 48 |
+| [My-KDE-Dotfiles](https://github.com/youngcoder45/My-KDE-Dotfiles) | Lua, KDE Plasma | 17 |
 | [Niri-Utils](https://github.com/youngcoder45/niri-utils) | Rust, Niri, Wayland | 16 |
 | [EclipseLinux](https://github.com/TheCodeVerseHub/EclipseLinux) | Lua, Linux, Void | 14 |
 | [Eigen-Bot](https://github.com/TheCodeVerseHub/Eigen-Bot) | Python, Discord.py | 13 |
 | [CodeVerseLinuxDistro](https://github.com/TheCodeVerseHub/CodeVerseLinuxDistro) | CSS, Linux | 10 |
 | [Fuzz-Wall](https://github.com/youngcoder45/fuzz-wall) | POSIX, Shell | 7 |
-| [Mensinator](https://github.com/EmmaTellblom/Mensinator) | Kotlin | 129* |
+| [Mensinator](https://github.com/EmmaTellblom/Mensinator) | Kotlin | 130* |
 \* Contributed Not Owned!
 </div>
 
