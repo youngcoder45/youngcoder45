@@ -126,13 +126,14 @@
 
 | Project | Stack | ⭐ Stars |
 |---|---|---|
-| [New-Niri-minimal-dots](https://github.com/youngcoder45/New-Niri-minimal-dots) | CSS, Niri, Wayland | 48 |
-| [My-KDE-Dotfiles](https://github.com/youngcoder45/My-KDE-Dotfiles) | Lua, KDE Plasma | 17 |
+| [New-Niri-minimal-dots](https://github.com/youngcoder45/New-Niri-minimal-dots) | CSS, Niri, Wayland | 51 |
+| [My-KDE-Dotfiles](https://github.com/youngcoder45/My-KDE-Dotfiles) | Lua, KDE Plasma | 23 |
 | [Niri-Utils](https://github.com/youngcoder45/niri-utils) | Rust, Niri, Wayland | 16 |
 | [EclipseLinux](https://github.com/TheCodeVerseHub/EclipseLinux) | Lua, Linux, Void | 14 |
 | [Eigen-Bot](https://github.com/TheCodeVerseHub/Eigen-Bot) | Python, Discord.py | 13 |
 | [CodeVerseLinuxDistro](https://github.com/TheCodeVerseHub/CodeVerseLinuxDistro) | CSS, Linux | 10 |
-| [Fuzz-Wall](https://github.com/youngcoder45/fuzz-wall) | POSIX, Shell | 7 |
+| [Student Performance Predictor](https://github.com/youngcoder45/Student-Performance-Predictor) | Numpy, Scikit-Learn | 10 |
+| [Fuzz-Wall](https://github.com/youngcoder45/fuzz-wall) | POSIX, Shell | 8 |
 | [Mensinator](https://github.com/EmmaTellblom/Mensinator) | Kotlin | 130* |
 \* Contributed Not Owned!
 </div>
