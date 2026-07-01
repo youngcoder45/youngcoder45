@@ -120,22 +120,26 @@
 <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white">
 </div>
 
-<h2 align="center"> Top Projects</h2>
+<h2 align="center">Top Projects</h2>
 
 <div align="center">
 
 | Project | Stack | ⭐ Stars |
-|---|---|---|
+|---|---|---:|
+| [Mensinator](https://github.com/EmmaTellblom/Mensinator) | Kotlin | 133* |
 | [New-Niri-minimal-dots](https://github.com/youngcoder45/New-Niri-minimal-dots) | CSS, Niri, Wayland | 51 |
-| [My-KDE-Dotfiles](https://github.com/youngcoder45/My-KDE-Dotfiles) | Lua, KDE Plasma | 23 |
+| [My-KDE-Dotfiles](https://github.com/youngcoder45/My-KDE-Dotfiles) | Lua, KDE Plasma | 21 |
+| [EclipseLinux](https://github.com/TheCodeVerseHub/EclipseLinux) | Lua, Linux, Void | 17 |
 | [Niri-Utils](https://github.com/youngcoder45/niri-utils) | Rust, Niri, Wayland | 16 |
-| [EclipseLinux](https://github.com/TheCodeVerseHub/EclipseLinux) | Lua, Linux, Void | 14 |
-| [Eigen-Bot](https://github.com/TheCodeVerseHub/Eigen-Bot) | Python, Discord.py | 13 |
+| [Eigen-Bot](https://github.com/TheCodeVerseHub/Eigen-Bot) | Python, Discord.py | 14 |
 | [CodeVerseLinuxDistro](https://github.com/TheCodeVerseHub/CodeVerseLinuxDistro) | CSS, Linux | 10 |
-| [Student Performance Predictor](https://github.com/youngcoder45/Student-Performance-Predictor) | Numpy, Scikit-Learn | 10 |
+| [Student-Performance-Predictor](https://github.com/youngcoder45/Student-Performance-Predictor) | NumPy, Scikit-Learn | 10 |
 | [Fuzz-Wall](https://github.com/youngcoder45/fuzz-wall) | POSIX, Shell | 8 |
-| [Mensinator](https://github.com/EmmaTellblom/Mensinator) | Kotlin | 130* |
-\* Contributed Not Owned!
+| [OpenCV-Math-Solver](https://github.com/youngcoder45/OpenCV-Math-Solver) | Python, OpenCV, MediaPipe | 5 |
+| [Discord-Server-Exporter-Bot](https://github.com/youngcoder45/Discord-Server-Exporter-Bot) | Python, Discord.py | 4 |
+
+\* Contributed, not owned.
+
 </div>
 
 ---
