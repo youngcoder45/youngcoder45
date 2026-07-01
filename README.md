@@ -217,7 +217,7 @@
 <h3 align="center">Closing Note</h3>
 <p align="center">
 I believe in learning by doing(Unsupervised Learning) and sharing knowledge through open-source.  
-My long-term goal is to advance in <b>Artificial Intelligence</b> and <b>Embedded System Technologies</b> while giving back to the developer community
+My long-term goal is to advance in <b>Artificial Intelligence</b> and <b>Embedded System Technologies</b> while giving back to the developer community.
 </p>
 
 ---
