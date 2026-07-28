@@ -126,7 +126,7 @@
 | Project | Stack | ⭐ Stars |
 |---|---|---:|
 | [Mensinator](https://github.com/EmmaTellblom/Mensinator) | Kotlin | 133* |
-| [New-Niri-minimal-dots](https://github.com/youngcoder45/New-Niri-minimal-dots) | CSS, Niri, Wayland | 51 |
+| [New-Niri-minimal-dots](https://github.com/youngcoder45/New-Niri-minimal-dots) | CSS, Niri, Wayland | 57 |
 | [My-KDE-Dotfiles](https://github.com/youngcoder45/My-KDE-Dotfiles) | Lua, KDE Plasma | 21 |
 | [EclipseLinux](https://github.com/TheCodeVerseHub/EclipseLinux) | Lua, Linux, Void | 17 |
 | [Niri-Utils](https://github.com/youngcoder45/niri-utils) | Rust, Niri, Wayland | 16 |
