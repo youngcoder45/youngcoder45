@@ -140,27 +140,21 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=youngcoder45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngcoder45&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats-delta-henna-50.vercel.app/api?username=youngcoder45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats-delta-henna-50.vercel.app/api/top-langs/?username=youngcoder45&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
 
 </div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=youngcoder45&theme=tokyonight&hide_border=true&background=0D1117&ring=6A5ACD&fire=6A5ACD&currStreakLabel=6A5ACD" alt="GitHub Streak" />
-</p>
-
 ---
-
-<h3 align="center">Detailed Metrics</h3>
+<h3 align="center">GitHub Streak</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lowlighter/lowlighter/master/metrics/themes/jetbrains.svg" alt="Metrics" />
+  <img src="https://streak-stats.demolab.com/?user=youngcoder45&theme=tokyonight&hide_border=true&background=0D1117&ring=6A5ACD&fire=6A5ACD&currStreakLabel=6A5ACD" alt="GitHub Streak" />
 </p>
 
 ---
 
 <h3 align="center">GitHub Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=youngcoder45&theme=tokyonight&no-frame=true&column=6&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=youngcoder45&theme=tokyonight&no-frame=true&column=6&margin-w=4&margin-h=4" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -168,7 +162,7 @@
 <h3 align="center">Activity Graph</h3>
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=youngcoder45&theme=tokyo-night&hide_border=true&area=true" height="280" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=youngcoder45&theme=high-contrast&hide_border=true&area=true" height="280" alt="Activity Graph" />
 
 </div>
 
