@@ -33,14 +33,14 @@
 
 ---
 
-<h2 align="center">Currently</h2>
+<!-- <h2 align="center">Currently</h2>
 
 - Working on: **The Codeverse Hub Website** and a few Discord bots
 - Learning: **Transformers**, **System Programming in Rust**, **FastAPI**
 - Ping me about: **Python, C++, Rust, AI/ML, Wayland/Linux ricing**
 - Fun fact: I use Arch, Niri, and write Lua configs nobody asked for :sob:
 
----
+--- -->
 
 <h2 align="center">Tech Stack</h2>
 
