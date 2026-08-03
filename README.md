@@ -144,11 +144,15 @@
 <img src="https://github-readme-stats-delta-henna-50.vercel.app/api/top-langs/?username=youngcoder45&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
 
 </div>
+
 ---
+
 <h3 align="center">GitHub Streak</h3>
+<div align="center">
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=youngcoder45&theme=tokyonight&hide_border=true&background=0D1117&ring=6A5ACD&fire=6A5ACD&currStreakLabel=6A5ACD" alt="GitHub Streak" />
 </p>
+</div>
 
 ---
 
