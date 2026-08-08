@@ -26,7 +26,7 @@
 ```python
 class Aditya:
     def __init__(self):
-        self.role = "Computer Science Student"
+        self.role = "Electronics Enginnering Student"
 
         self.interests = [
             "Artificial Intelligence",
@@ -74,8 +74,8 @@ me = Aditya()
 
 <!-- <h2 align="center">Currently</h2>
 
-- Working on: **The Codeverse Hub Website** and a few Discord bots
-- Learning: **Transformers**, **System Programming in Rust**, **FastAPI**
+- Working on: **A LinuX Package** and a few Discord bots
+- Learning: **Transformers**, **System Programming in Rust and C++**, **FastAPI**
 - Ping me about: **Python, C++, Rust, AI/ML, Wayland/Linux ricing**
 - Fun fact: I use Arch, Niri, and write Lua configs nobody asked for :sob:
 
@@ -157,11 +157,11 @@ me = Aditya()
 
 | Project | Stack | ⭐ Stars |
 |---|---|---:|
-| [Mensinator](https://github.com/EmmaTellblom/Mensinator) | Kotlin | 133* |
-| [New-Niri-minimal-dots](https://github.com/youngcoder45/New-Niri-minimal-dots) | CSS, Niri, Wayland | 57 |
-| [My-KDE-Dotfiles](https://github.com/youngcoder45/My-KDE-Dotfiles) | Lua, KDE Plasma | 21 |
-| [EclipseLinux](https://github.com/TheCodeVerseHub/EclipseLinux) | Lua, Linux, Void | 17 |
-| [Niri-Utils](https://github.com/youngcoder45/niri-utils) | Rust, Niri, Wayland | 16 |
+| [Mensinator](https://github.com/EmmaTellblom/Mensinator) | Kotlin | 141* |
+| [New-Niri-minimal-dots](https://github.com/youngcoder45/New-Niri-minimal-dots) | CSS, Niri, Wayland | 59 |
+| [My-KDE-Dotfiles](https://github.com/youngcoder45/My-KDE-Dotfiles) | Lua, KDE Plasma | 28 |
+| [EclipseLinux](https://github.com/TheCodeVerseHub/EclipseLinux) | Lua, Linux, Void | 18 |
+| [Niri-Utils](https://github.com/youngcoder45/niri-utils) | Rust, Niri, Wayland | 17 |
 | [Eigen-Bot](https://github.com/TheCodeVerseHub/Eigen-Bot) | Python, Discord.py | 15 |
 | [CodeVerseLinuxDistro](https://github.com/TheCodeVerseHub/CodeVerseLinuxDistro) | CSS, Linux | 10 |
 | [Student-Performance-Predictor](https://github.com/youngcoder45/Student-Performance-Predictor) | NumPy, Scikit-Learn | 10 |
