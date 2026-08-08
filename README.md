@@ -23,6 +23,45 @@
 
 ---
 
+```python
+class Aditya:
+    def __init__(self):
+        self.role = "Computer Science Student"
+
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Linux",
+            "Open Source",
+            "Backend Development",
+            "Developer Tools"
+        ]
+
+        self.languages = [
+            "Python",
+            "C++",
+            "Rust",
+            "JavaScript"
+        ]
+
+        self.current_projects = [
+            "Miku",
+            "Niri Utils",
+            "EclipseLinux",
+            "CodeVerseHub"
+        ]
+
+        self.goal = (
+            "Build useful software and "
+            "contribute to open source"
+        )
+
+me = Aditya()
+```
+
+---
+
+
 <h2 align="center">Current Focus</h2>
 
 - Working on: Python-based projects, Discord bots, and Next.js Web Apps.
@@ -54,8 +93,8 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
 
-</div>
 <br>
+</div>
 <div align="center">
 
 <!-- Frontend -->
@@ -135,8 +174,34 @@
 </div>
 
 ---
+<div align="center">
 
-<h2 align="center">GitHub Stats</h2>
+## GitHub Analytics
+
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngcoder45&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/> -->
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youngcoder45&theme=tokyonight"/>
+<br>
+<h2 align="center">Stats & Commits</h2>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=youngcoder45&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=youngcoder45&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+<!-- <div align="center">
+
+## Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=youngcoder45&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---  -->
+
+
+<!-- <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
 
@@ -145,7 +210,7 @@
 
 </div>
 
----
+--- -->
 
 <h3 align="center">GitHub Streak</h3>
 <div align="center">
