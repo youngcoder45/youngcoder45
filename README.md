@@ -162,12 +162,14 @@ me = Aditya()
 | [My-KDE-Dotfiles](https://github.com/youngcoder45/My-KDE-Dotfiles) | Lua, KDE Plasma | 28 |
 | [EclipseLinux](https://github.com/TheCodeVerseHub/EclipseLinux) | Lua, Linux, Void | 18 |
 | [Niri-Utils](https://github.com/youngcoder45/niri-utils) | Rust, Niri, Wayland | 17 |
-| [Eigen-Bot](https://github.com/TheCodeVerseHub/Eigen-Bot) | Python, Discord.py | 15 |
+| [Eigen-Bot](https://github.com/TheCodeVerseHub/Eigen-Bot) | Sqlite, Discord.py | 15 |
 | [CodeVerseLinuxDistro](https://github.com/TheCodeVerseHub/CodeVerseLinuxDistro) | CSS, Linux | 10 |
 | [Student-Performance-Predictor](https://github.com/youngcoder45/Student-Performance-Predictor) | NumPy, Scikit-Learn | 10 |
 | [Fuzz-Wall](https://github.com/youngcoder45/fuzz-wall) | POSIX, Shell | 8 |
+| [Schrodinger](https://github.com/TheCodeVerseHub/Schrodinger) | Discord.py, Sqlite | 8 |
 | [OpenCV-Math-Solver](https://github.com/youngcoder45/OpenCV-Math-Solver) | Python, OpenCV, MediaPipe | 5 |
 | [Discord-Server-Exporter-Bot](https://github.com/youngcoder45/Discord-Server-Exporter-Bot) | Python, Discord.py | 4 |
+| [Miku](https://github.com/TheCodeVerseHub/Miku) | PostgresSQL, Discord.py, FastAPI | 4 |
 
 \* Contributed, not owned.
 
