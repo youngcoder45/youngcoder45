@@ -16,7 +16,7 @@
 
 <h2 align="center">About Me</h2>
 <p align="center">
-  I'm <b>Aditya Verma</b>, a Computer Science Engineering Student and a Passionate Programmer, I am interested in
+  I'm <b>Aditya Verma</b>, a Electronics Engineering Student and a Passionate Programmer, I am interested in
   <b>Artificial Intelligence, Web Development, and Researches</b>.
   I just enjoy programming.
 </p>
