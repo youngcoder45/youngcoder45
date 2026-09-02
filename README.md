@@ -59,9 +59,6 @@ class Aditya:
 me = Aditya()
 ```
 
----
-
-
 <h2 align="center">Current Focus</h2>
 
 - Working on: Python-based projects, Discord bots, and Next.js Web Apps.
@@ -170,6 +167,7 @@ me = Aditya()
 | [OpenCV-Math-Solver](https://github.com/youngcoder45/OpenCV-Math-Solver) | Python, OpenCV, MediaPipe | 5 |
 | [Discord-Server-Exporter-Bot](https://github.com/youngcoder45/Discord-Server-Exporter-Bot) | Python, Discord.py | 4 |
 | [Miku](https://github.com/TheCodeVerseHub/Miku) | PostgresSQL, Discord.py, FastAPI | 4 |
+| [Inuitoko](https://github.com/youngcoder45/inuitoko) | Sqlite, Discord.py | 4 |
 
 \* Contributed, not owned.
 
