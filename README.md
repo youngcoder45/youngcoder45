@@ -148,6 +148,20 @@ me = Aditya()
 
 ---
 
+<h2 align="center">Daily.dev</h2>
+
+<p align="center">
+  <a href="https://app.daily.dev/youngcoder45">
+    <img
+      src="https://github.com/youngcoder45/youngcoder45/blob/main/devcard.png?raw=true"
+      width="320"
+      alt="Aditya's Dev Card"
+    />
+  </a>
+</p>
+
+---
+
 <h2 align="center">Top Projects</h2>
 
 <div align="center">
