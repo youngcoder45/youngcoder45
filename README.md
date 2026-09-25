@@ -154,14 +154,14 @@ me = Aditya()
 
 | Project | Stack | ⭐ Stars |
 |---|---|---:|
-| [Mensinator](https://github.com/EmmaTellblom/Mensinator) | Kotlin | 141* |
-| [New-Niri-minimal-dots](https://github.com/youngcoder45/New-Niri-minimal-dots) | CSS, Niri, Wayland | 59 |
-| [My-KDE-Dotfiles](https://github.com/youngcoder45/My-KDE-Dotfiles) | Lua, KDE Plasma | 28 |
-| [EclipseLinux](https://github.com/TheCodeVerseHub/EclipseLinux) | Lua, Linux, Void | 18 |
+| [Mensinator](https://github.com/EmmaTellblom/Mensinator) | Kotlin | 143* |
+| [New-Niri-minimal-dots](https://github.com/youngcoder45/New-Niri-minimal-dots) | CSS, Niri, Wayland | 65 |
+| [My-KDE-Dotfiles](https://github.com/youngcoder45/My-KDE-Dotfiles) | Lua, KDE Plasma | 30 |
+| [EclipseLinux](https://github.com/TheCodeVerseHub/EclipseLinux) | Lua, Linux, Void | 19 |
 | [Niri-Utils](https://github.com/youngcoder45/niri-utils) | Rust, Niri, Wayland | 17 |
-| [Eigen-Bot](https://github.com/TheCodeVerseHub/Eigen-Bot) | Sqlite, Discord.py | 15 |
-| [CodeVerseLinuxDistro](https://github.com/TheCodeVerseHub/CodeVerseLinuxDistro) | CSS, Linux | 10 |
-| [Student-Performance-Predictor](https://github.com/youngcoder45/Student-Performance-Predictor) | NumPy, Scikit-Learn | 10 |
+| [Eigen-Bot](https://github.com/TheCodeVerseHub/Eigen-Bot) | Sqlite, Discord.py | 14 |
+| [CodeVerseLinuxDistro](https://github.com/TheCodeVerseHub/CodeVerseLinuxDistro) | CSS, Linux | 12 |
+| [Student-Performance-Predictor](https://github.com/youngcoder45/Student-Performance-Predictor) | NumPy, Scikit-Learn | 13 |
 | [Fuzz-Wall](https://github.com/youngcoder45/fuzz-wall) | POSIX, Shell | 8 |
 | [Schrodinger](https://github.com/TheCodeVerseHub/Schrodinger) | Discord.py, Sqlite | 8 |
 | [OpenCV-Math-Solver](https://github.com/youngcoder45/OpenCV-Math-Solver) | Python, OpenCV, MediaPipe | 5 |
