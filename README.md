@@ -131,6 +131,7 @@ me = Aditya()
 <!-- OS / Environment -->
 <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+<img src="https://img.shields.io/badge/FEDORA-47CC6B?style=for-the-badge&logo=fedora&logoColor=white">
 <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Niri-000000?style=for-the-badge">
